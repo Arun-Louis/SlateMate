@@ -1,0 +1,14 @@
+# SlateMate — Python Dependencies
+
+# Core pipeline
+manim
+openai-whisper
+anthropic
+requests
+
+# Audio processing (bundled with ffmpeg install)
+ffmpeg-python
+
+# Utilities
+tqdm
+pathlib
