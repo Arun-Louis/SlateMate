@@ -1,0 +1,14 @@
+manim
+openai-whisper
+anthropic
+requests
+pandas
+numpy
+scikit-learn
+openpyxl
+torch
+transformers
+tqdm
+joblib
+streamlit
+ffmpeg-python
